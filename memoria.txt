@@ -1,0 +1,88 @@
+1. Descripción
+Desde el inicio de mi formación en Ingeniería Informática, siempre he tenido un interés especial por el desarrollo de aplicaciones web que tengan un impacto real en la vida de las personas. Este interés me llevó a concebir la idea de crear una plataforma que facilitara la gestión académica tanto para estudiantes como para docentes. Así nació el proyecto "Nicolás", una aplicación web diseñada para mejorar la organización y seguimiento de tareas, asistencia y calificaciones en el entorno educativo.
+
+La plataforma "Nicolás" permite a los usuarios gestionar de manera eficiente sus actividades académicas, ofreciendo funcionalidades como la asignación de tareas, seguimiento de asistencia, y visualización de calificaciones. La interfaz está diseñada para ser intuitiva y accesible, asegurando que tanto estudiantes como profesores puedan utilizarla sin dificultades técnicas.
+
+Espacio para imagen: Captura de la página principal de la plataforma "Nicolás".
+
+2. Objetivos
+Objetivo General
+Desarrollar una aplicación web funcional y accesible que mejore la gestión académica en entornos educativos, facilitando la interacción entre estudiantes y docentes.
+
+Objetivos Específicos
+Implementar un sistema de gestión de tareas que permita a los docentes asignar y evaluar actividades, y a los estudiantes realizar un seguimiento de las mismas.
+
+Desarrollar un módulo de control de asistencia que registre y visualice la asistencia de los estudiantes de manera eficiente.
+
+Crear una interfaz de usuario intuitiva y responsive que garantice una experiencia de usuario óptima en diferentes dispositivos.
+
+Asegurar la integridad y seguridad de los datos mediante la implementación de buenas prácticas en el desarrollo web.
+
+3. Recursos Empleados
+Para llevar a cabo este proyecto, he utilizado una combinación de herramientas y tecnologías que me han permitido desarrollar una aplicación robusta y escalable:
+
+Lenguajes de Programación: PHP para el backend y JavaScript para el frontend.
+
+Frameworks: Laravel para el desarrollo del backend y Vue.js para el frontend, lo que ha facilitado la creación de una SPA (Single Page Application).
+
+Base de Datos: MySQL, elegida por su fiabilidad y compatibilidad con Laravel.
+
+Control de Versiones: Git, utilizando Bitbucket como plataforma de alojamiento del repositorio.
+
+Entorno de Desarrollo: Visual Studio Code como editor principal, junto con herramientas como Postman para pruebas de API y XAMPP para el entorno local de servidor.
+
+Diseño y Prototipado: Figma para el diseño de la interfaz de usuario y la planificación de la experiencia de usuario (UX).
+
+Espacio para imagen: Diagrama de la arquitectura de la aplicación.
+
+4. Desarrollo o Explicación
+Fase de Planificación
+El proyecto comenzó con una fase de planificación en la que definí los requerimientos funcionales y no funcionales de la aplicación. Realicé un análisis de las necesidades de los usuarios potenciales y establecí un cronograma de desarrollo dividido en sprints semanales.
+
+Fase de Diseño
+Utilizando Figma, diseñé los wireframes y prototipos de la interfaz de usuario. Me aseguré de que la navegación fuera intuitiva y que los elementos visuales facilitaran la interacción del usuario con la plataforma.
+
+Espacio para imagen: Prototipo de la interfaz de usuario en Figma.
+
+Fase de Desarrollo
+Durante el desarrollo, implementé las siguientes funcionalidades principales:
+
+Gestión de Tareas: Los docentes pueden crear, editar y asignar tareas a los estudiantes. Los estudiantes pueden visualizar las tareas asignadas, marcar las completadas y subir archivos relacionados.
+
+Control de Asistencia: Se desarrolló un sistema que permite a los docentes registrar la asistencia de los estudiantes y a estos últimos visualizar su historial de asistencia.
+
+Visualización de Calificaciones: Los estudiantes pueden consultar sus calificaciones y recibir retroalimentación de los docentes.
+
+Panel de Administración: Un panel exclusivo para los administradores del sistema, donde pueden gestionar usuarios, asignaturas y otras configuraciones generales.
+
+Espacio para imagen: Captura del panel de administración de la plataforma.
+
+Fase de Pruebas
+Realicé pruebas unitarias y de integración para asegurar la funcionalidad de cada componente. También llevé a cabo pruebas de usabilidad con usuarios reales para identificar posibles mejoras en la interfaz y experiencia de usuario.
+
+5. Conclusión y Posibles Mejoras
+El desarrollo de la plataforma "Nicolás" ha sido una experiencia enriquecedora que me ha permitido aplicar y consolidar los conocimientos adquiridos durante la carrera. He enfrentado y superado diversos desafíos, desde problemas técnicos hasta decisiones de diseño centradas en el usuario.
+
+Entre las posibles mejoras futuras, considero:
+
+Implementación de Notificaciones: Añadir un sistema de notificaciones en tiempo real para informar a los usuarios sobre nuevas tareas, cambios en el horario, etc.
+
+Integración con Calendarios Externos: Permitir la sincronización de tareas y eventos con calendarios como Google Calendar.
+
+Optimización para Dispositivos Móviles: Aunque la plataforma es responsive, se podrían realizar ajustes específicos para mejorar la experiencia en dispositivos móviles.
+
+Análisis de Datos: Incorporar herramientas de análisis que permitan a los docentes obtener estadísticas sobre el rendimiento y participación de los estudiantes.
+
+6. Bibliografía y Referencias
+Laravel Documentation. (https://laravel.com/docs)
+
+Vue.js Documentation. (https://vuejs.org/v2/guide/)
+
+MySQL Reference Manual. (https://dev.mysql.com/doc/)
+
+Figma: Collaborative Interface Design Tool. (https://www.figma.com/)
+
+Bitbucket: Git Solution for Teams. (https://bitbucket.org/)
+
+Postman API Platform. (https://www.postman.com/)
+
